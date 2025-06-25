@@ -7,44 +7,43 @@
 🌱 Currently exploring and building POCs in **Spring Boot**, **Spring MVC**, and **RESTful Web Services**. I aim to sharpen my backend development skills and become a production-ready full-stack developer.
 
 ---
+### 🚀 Technical Stack
 
-## 🚀 Skills
-- 💻 **Languages:** Java, SQL, HTML, CSS, JavaScript
-- 🔁 **OOPs Concepts**, **Exception Handling**, **File Handling**
-- 📦 **JDBC**, **Servlets**, **JSP**
-- 🌐 **Spring MVC**, **Spring Boot**, **REST APIs**
-- 🧠 Good understanding of **Database Design**, **Normalization**, and **Joins**
-- 🔐 Login & Authentication Systems
-- ⚙️ Debugging, Testing, Deployment Practices
-
----
-
-## 🛠️ Tools & Technologies
-- 💽 Oracle DB, MySQL
-- ☕ Eclipse IDE, STS Tool 4.22
-- 🛠️ Apache Tomcat 9/10
-- 🧰 Git & GitHub
-- 📫 Postman (API Testing)
-- 🔧 OBS Studio (for video creation)
-
----
+- **Languages**: Java, SQL
+- **Web Technologies**: HTML, CSS, JSP,Servlet
+- **Frameworks**: Spring Boot, Spring MVC, Spring Core, Spring REST, Spring Data JPA, Hibernate
+- **Tools**: Eclipse, Spring Tool Suite (STS), Visual Studio Code, Postman
+- **Databases**: Oracle, MySQL
+- **Version Control**: Git & GitHub
+- **Build Tools**: Maven
+- **Frontend (Basics)**: React.js (familiar), Thymeleaf (in progress)
 
 ## 📘 Projects & POCs
-- 🏦 **Banking Application** (Spring MVC + JSP + JDBC + Oracle)  
-  ➤ Features: Account creation, deposit/withdrawal, transaction history, fund transfer.
+- 
+#### 💳 [Banking Application](https://github.com/your-github-username/banking-application)
+- **Tech Stack**: Spring MVC, JSP, Java, Spring Data JPA, Oracle
+- **Description**: Simulates core banking operations like account creation, balance check, deposit, withdrawal, and fund transfers.
+- **Role**:
+  - Implemented Controller-View architecture with Spring MVC
+  - Designed forms for account management using JSP
+  - Integrated database with Spring Data JPA
 
-
-
-- 🧪 Ongoing POCs with Spring Boot, RESTful APIs, and advanced backend design patterns.
+#### ⚡ [Electricity Bill Management System](https://github.com/your-github-username/electricity-bill-system)
+- **Tech Stack**: Core Java, Spring Boot, Spring REST, Hibernate, Oracle
+- **Description**: RESTful web service for calculating and managing electricity bills dynamically based on tariff slabs.
+- **Highlights**:
+  - Developed REST APIs using Spring Boot
+  - CRUD operations on consumer records
+  - Tested with Postman
 
 ---
 
-## 📫 Contact Me
-- ✉️ **Email:** pradipghadge17@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/pradip-ghadge](https://www.linkedin.com/in/pradipghadge)  
-- 📁 **Portfolio:** *Coming soon*  
-- 📍 Location: India
+### 📫 Contact Me
+
+- 📧 Email: pradipghadge17@gmail.com  
+- 📱 Phone: +91-9075170516  
+- 📍 Location: Pune, Maharashtra, India  
+- 🔗 LinkedIn: [linkedin.com/in/pradipghadge](https://www.linkedin.com/in/pradipghadge)
 
 ---
 
-⭐ *Feel free to check out my repositories and reach out for collaborations or Java-based opportunities!*
