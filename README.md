@@ -28,7 +28,7 @@
   - Designed forms for account management using JSP
   - Integrated database with Spring Data JPA
 
-#### ⚡ [Electricity Bill Management System] (https://github.com/GhadgePradip9971/101-RestElecticityBillManagement)
+#### ⚡ [Electricity Bill Management System] [(https://github.com/GhadgePradip9971/101-RestElecticityBillManagement)](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/7f6c78bfbd1e96272446007dc142d8396db6ad07/101-RestApiElectricityBill)
 - **Tech Stack**: Core Java, Spring Boot, Spring REST, Hibernate, Oracle
 - **Description**: RESTful web service for calculating and managing electricity bills dynamically based on tariff slabs.
 - **Highlights**:
