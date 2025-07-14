@@ -19,8 +19,8 @@
 - **Frontend (Basics)**: React.js (familiar), Thymeleaf (in progress)
 
 ## 📘 Projects & POCs
-- 
-#### 💳 [Banking Application][(https://github.com/your-github-username/banking-application)](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/fa1681b07cc908f8abd4ac0522461a158dc49de7/400-SDFCBankspringbootappn)
+
+#### 💳 [Banking Application][(https://github.com/your-GhadgePradip9971/banking-application)](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/fa1681b07cc908f8abd4ac0522461a158dc49de7/400-SDFCBankspringbootappn)
 - **Tech Stack**: Spring MVC, JSP, Java, Spring Data JPA, Oracle
 - **Description**: Simulates core banking operations like account creation, balance check, deposit, withdrawal, and fund transfers.
 - **Role**:
