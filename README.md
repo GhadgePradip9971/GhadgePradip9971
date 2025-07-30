@@ -4,7 +4,7 @@
 
 💻 I have completed a **Java Full Stack Developer course** at **Sathya Technologies, Hyderabad**, where I built several real-time projects using modern Java technologies.
 
-🌱 Currently exploring and building POCs in **Spring Boot**, **Spring MVC**, and **RESTful Web Services**. I aim to sharpen my backend development skills and become a production-ready full-stack developer.
+🌱 Currently exploring and building POCs in **Spring Boot**, **MVC**, and **RESTful Web Services**. I aim to sharpen my backend development skills and become a production-ready full-stack developer.
 
 ---
 ### 🚀 Technical Stack
