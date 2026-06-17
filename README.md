@@ -37,18 +37,50 @@ Sathya Technologies, Hyderabad | Built multiple real-time projects using modern 
 
 ## 📘 Projects & Experience
 
-### **Java Developer Trainee** | Hulk Hire Tech, Hyderabad  
-*Stripe Payment Integration Project*
+### **Java Developer Trainee** | Hulk Hire Tech, Hyderabad
 
-**Technologies**: Spring Boot, Microservices, Spring Boot JDBC, MySQL, AWS, BitBucket, Spring AI
+**Aug 2025 –  Sept 2025**
+**Project: Stripe Payment Integration System**
 
-**Responsibilities**:
-- Developed **Stripe-provider service** integrating with Stripe REST APIs
-- Implemented **modular payment-processing** in microservices architecture
-- Created **custom error handling** with Spring exception management
-- Integrated **MySQL using Spring JDBC** for data persistence
-- Explored **Spring AI with OpenAI LLM** for dynamic error responses
-- Followed **RESTful standards** and participated in Agile development
+**Tech Stack:** Java, Spring Boot, Microservices, Spring Boot JDBC, MySQL, AWS, REST APIs, Stripe API, Spring AI, OpenAI LLM, ActiveMQ, Maven, BitBucket
+
+**Repository:** [View Project on BitBucket](YOUR_BITBUCKET_PROJECT_LINK)
+
+Developed a secure and scalable **Stripe Payment Integration System** using Java Spring Boot and Microservices architecture. The project focuses on payment processing, Stripe PSP integration, transaction management, notification handling, security, and error management.
+
+**Key Contributions:**
+
+* Developed **Stripe Provider Service** integrating Stripe REST APIs for:
+
+  * Create Checkout Session
+  * Retrieve Checkout Session
+  * Expire Checkout Session
+
+* Implemented modular **payment-processing services** using Microservices architecture.
+
+* Integrated Stripe APIs with secure authentication mechanisms using **Basic Authentication**.
+
+* Implemented **HMAC-SHA256 signature validation** for secure webhook notification processing.
+
+* Designed payment status tracking and transaction lifecycle management.
+
+* Developed centralized exception handling with custom error codes.
+
+* Integrated MySQL database using **Spring JDBC** for persistence.
+
+* Implemented asynchronous communication using **ActiveMQ**.
+
+* Explored **Spring AI with OpenAI LLM** for intelligent error response generation.
+
+* Worked with AWS services:
+
+  * EC2
+  * RDS
+  * Secrets Manager
+
+* Applied OOP principles and design patterns like **Factory and Builder patterns**.
+
+* Followed Agile methodology with Git, BitBucket, Jira, code reviews, and team collaboration.
 
 ### **Banking Application**
 **Tech**: Spring MVC, JSP, Spring Data JPA, Oracle  
