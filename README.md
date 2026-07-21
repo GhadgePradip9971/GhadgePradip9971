@@ -81,7 +81,7 @@ Developed a secure and scalable **Stripe Payment Integration System** using Java
 * Applied OOP principles and design patterns like **Factory and Builder patterns**.
 
 * Followed Agile methodology with Git, BitBucket, Jira, code reviews, and team collaboration.
-
+------------------------------------------------------------------------------------------------------
 ### **Project: 🏦 SDFC Bankking Application**
 **Tech Stack**: Java 17, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Maven, Render
 
@@ -112,8 +112,11 @@ Developer
 *Configured Maven for dependency management and project builds.
 
 *Managed source code using Git and GitHub.
+
 *Deployed the application on Render for live access.
+
 *Continuously enhancing the application with production-ready features and best practices.
+
 ---
 
 ## **Project: Inspire Blog**
@@ -171,8 +174,8 @@ A secure and responsive blogging platform developed using Spring Boot, Spring MV
 
 ### Source Code
 
-🔗 **Bitbuket Repo** [view Repo On Bitbukcet](https://bitbucket.org/stripepay/workspace/projects/IB)
------
+🔗 **BitbuketRepo:** [viewRepo](https://bitbucket.org/stripepay/workspace/projects/IB)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **Banking Application**
 **Tech**: Spring MVC, JSP, Spring Data JPA, Oracle  
 **GitHub**: [View Project](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/fa1681b07cc908f8abd4ac0522461a158dc49de7/400-SDFCBankspringbootappn)
