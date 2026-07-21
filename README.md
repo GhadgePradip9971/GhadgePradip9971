@@ -84,22 +84,33 @@ Developed a secure and scalable **Stripe Payment Integration System** using Java
 
 ### **🏦 SDFC Bankking Application**
 **Tech Stack**: Java 17, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Maven, Render
-🔗 **Repository:** https://github.com/GhadgePradip9971/
-🌐 **Live Demo:** [https://your-render-app.onrender.com](https://sdfcbank.onrender.com/)
 
-Description:
+🔗 **Repository:** [View Project On Github ](https://github.com/GhadgePradip9971/BankingApp)
+
+🌐 **Live Demo:** [View Live Project](https://sdfcbank.onrender.com/)
+
+**Description:**
 A full-stack banking management application that enables account creation, deposits, withdrawals, fund transfers, and balance enquiries. Built using Spring Boot with a layered MVC architecture, MySQL integration, server-side validation, and deployed on Render. The project is actively evolving with enterprise features such as Spring Security, REST APIs, Docker, and cloud deployment.
 Developer
 
 **📋 Roles & Responsibilities**
+
 *Designed and developed the complete Banking Management System using Spring Boot and Spring MVC.
+
 *Implemented layered architecture following Controller–Service–Repository design principles.
+
 *Developed banking modules including Account Opening, Deposit, Withdrawal, Fund Transfer, and Balance Enquiry.
+
 *Designed and integrated MySQL database using Spring Data JPA and Hibernate.
+
 *Created responsive web pages using Thymeleaf, HTML, CSS, and JavaScript.
+
 *Implemented server-side validation using Jakarta Bean Validation annotations.
+
 *Developed centralized exception handling for better user experience.
+
 *Configured Maven for dependency management and project builds.
+
 *Managed source code using Git and GitHub.
 *Deployed the application on Render for live access.
 *Continuously enhancing the application with production-ready features and best practices.
