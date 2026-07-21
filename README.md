@@ -115,6 +115,65 @@ Developer
 *Deployed the application on Render for live access.
 *Continuously enhancing the application with production-ready features and best practices.
 
+# 🚀 Featured Projects
+
+---
+
+## Inspire Blog
+
+A secure and responsive blogging platform developed using Spring Boot, Spring MVC, Spring Security, Thymeleaf, and MySQL. Users can register, authenticate securely, publish inspirational blogs and thoughts, and explore motivational content through an intuitive interface.
+
+### Technologies
+
+- Java 17
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Thymeleaf
+- MySQL
+- Bootstrap
+- Maven
+- Render
+
+### Key Features
+
+✔ User Registration & Login
+
+✔ Spring Security Authentication
+
+✔ BCrypt Password Encryption
+
+✔ Role-Based Access Control
+
+✔ Create & Publish Blogs
+
+✔ Inspirational Thoughts Module
+
+✔ Responsive UI
+
+✔ MySQL Database Integration
+
+✔ Cloud Deployment on Render
+
+### My Responsibilities
+
+- Designed the complete project architecture following the MVC pattern.
+- Developed backend business logic using Spring Boot and Spring MVC.
+- Implemented secure authentication and authorization with Spring Security.
+- Designed and managed the MySQL database using Spring Data JPA.
+- Built responsive user interfaces with Thymeleaf, HTML, CSS, and Bootstrap.
+- Integrated CRUD operations for blogs and inspirational thoughts.
+- Configured cloud deployment on Render.
+- Managed project source code using Git and Bitbucket.
+
+### Live Demo
+
+🌐 [live website](https://inspire-blog-web.onrender.com/)
+
+### Source Code
+
+🔗 [Bitbucket Repo](https://bitbucket.org/stripepay/workspace/projects/IB)
 ### **Banking Application**
 **Tech**: Spring MVC, JSP, Spring Data JPA, Oracle  
 **GitHub**: [View Project](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/fa1681b07cc908f8abd4ac0522461a158dc49de7/400-SDFCBankspringbootappn)
