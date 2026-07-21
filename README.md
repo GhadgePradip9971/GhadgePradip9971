@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pradip Ghadge!
 
-**Java Full Stack Developer** | Spring Boot | Microservices | REST APIs | AWS
+**Java Full Stack Developer** | Spring Boot | Microservices | REST APIs | AWS |Thymeleaf |React 
 
 🎓 **B.Tech in Computer Science and Engineering**  
 Punyashlok Ahilyadevi Holkar Solapur University (2020–2024)
@@ -35,12 +35,13 @@ Sathya Technologies, Hyderabad | Built multiple real-time projects using modern 
 
 ---
 
-## 📘 Projects & Experience
+## 📘Experience
 
 ### **Java Developer Trainee** | Hulk Hire Tech, Hyderabad
 
 **Aug 2025 –  Sept 2025**
-**Project: Stripe Payment Integration System**
+
+**Project 1: Stripe Payment Integration System**
 
 **Tech Stack:** Java, Spring Boot, Microservices, Spring Boot JDBC, MySQL, AWS, REST APIs, Stripe API, Spring AI, OpenAI LLM, ActiveMQ, Maven, BitBucket
 
@@ -82,7 +83,9 @@ Developed a secure and scalable **Stripe Payment Integration System** using Java
 
 * Followed Agile methodology with Git, BitBucket, Jira, code reviews, and team collaboration.
 ------------------------------------------------------------------------------------------------------
-### **Project: 🏦 SDFC Bankking Application**
+## Projects:
+
+### **Project 1: 🏦 SDFC Bankking Application**
 **Tech Stack**: Java 17, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Maven, Render
 
 🔗 **Repository:** [View Project On Github ](https://github.com/GhadgePradip9971/BankingApp)
@@ -119,23 +122,18 @@ Developer
 
 ---
 
-## **Project: Inspire Blog**
+## **Project 2: Inspire Blog**
+
+### Technologies : Java 17,Spring Boot,Spring MVC,Spring Security,Spring Data JPA,Thymeleaf,MySQL,Bootstrap,Maven,Render
+
+
+🌐 **LiveDemo:** [ViewLiveProject](https://inspire-blog-web.onrender.com/)
+
+🔗 **BitbuketRepo:** [viewRepo](https://bitbucket.org/stripepay/workspace/projects/IB)
 
 **Description**
 A secure and responsive blogging platform developed using Spring Boot, Spring MVC, Spring Security, Thymeleaf, and MySQL. Users can register, authenticate securely, publish inspirational blogs and thoughts, and explore motivational content through an intuitive interface.
 
-### Technologies
-
-- Java 17
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Thymeleaf
-- MySQL
-- Bootstrap
-- Maven
-- Render
 
 ### Key Features
 
@@ -168,13 +166,6 @@ A secure and responsive blogging platform developed using Spring Boot, Spring MV
 - Configured cloud deployment on Render.
 - Managed project source code using Git and Bitbucket.
 
-### Live Demo
-
-🌐 **LiveDemo:** [ViewLiveProject](https://inspire-blog-web.onrender.com/)
-
-### Source Code
-
-🔗 **BitbuketRepo:** [viewRepo](https://bitbucket.org/stripepay/workspace/projects/IB)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **Banking Application**
 **Tech**: Spring MVC, JSP, Spring Data JPA, Oracle  
@@ -182,7 +173,7 @@ A secure and responsive blogging platform developed using Spring Boot, Spring MV
 - Simulated core banking operations (accounts, transactions, transfers)
 - Implemented Controller-View architecture with Spring MVC
 - Designed UI with JSP and integrated database via Spring Data JPA
-
+---
 ### **Electricity Bill Management System**
 **Tech**: Spring Boot, Spring REST, Hibernate, Oracle  
 **GitHub**: [View Project](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/7f6c78bfbd1e96272446007dc142d8396db6ad07/101-RestApiElectricityBill)
@@ -211,7 +202,7 @@ A secure and responsive blogging platform developed using Spring Boot, Spring MV
 - **Email**: pradipghadge17@gmail.com  
 - **Phone**: +91-9075170516  
 - **Location**: Pune, Maharashtra, India  
-- **LinkedIn**: [linkedin.com/in/pradipghadge](https://www.linkedin.com/in/pradipghadge)
-- **GitHub**: [github.com/GhadgePradip9971](https://github.com/GhadgePradip9971)
-
+- **LinkedIn**: [linkedin](https://www.linkedin.com/in/pradipghadge)
+- **GitHub**: [Github](https://github.com/GhadgePradip9971)
+------
 *Seeking opportunities as a Java/Full Stack Developer where I can contribute to innovative projects and grow with a dynamic team.*
