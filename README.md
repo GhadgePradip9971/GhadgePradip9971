@@ -44,7 +44,7 @@ Sathya Technologies, Hyderabad | Built multiple real-time projects using modern 
 
 **Tech Stack:** Java, Spring Boot, Microservices, Spring Boot JDBC, MySQL, AWS, REST APIs, Stripe API, Spring AI, OpenAI LLM, ActiveMQ, Maven, BitBucket
 
-**Repository:** [View Project on BitBucket](YOUR_BITBUCKET_PROJECT_LINK)
+**Repository:** [View Project on BitBucket](https://bitbucket.org/stripepay/payment-processing-service/src/integration/)
 
 Developed a secure and scalable **Stripe Payment Integration System** using Java Spring Boot and Microservices architecture. The project focuses on payment processing, Stripe PSP integration, transaction management, notification handling, security, and error management.
 
@@ -82,7 +82,7 @@ Developed a secure and scalable **Stripe Payment Integration System** using Java
 
 * Followed Agile methodology with Git, BitBucket, Jira, code reviews, and team collaboration.
 
-### **🏦 SDFC Bankking Application**
+### **Project: 🏦 SDFC Bankking Application**
 **Tech Stack**: Java 17, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Thymeleaf, MySQL, Maven, Render
 
 🔗 **Repository:** [View Project On Github ](https://github.com/GhadgePradip9971/BankingApp)
@@ -114,13 +114,11 @@ Developer
 *Managed source code using Git and GitHub.
 *Deployed the application on Render for live access.
 *Continuously enhancing the application with production-ready features and best practices.
-
-# 🚀 Featured Projects
-
 ---
 
-## Inspire Blog
+## **Project: Inspire Blog**
 
+**Description**
 A secure and responsive blogging platform developed using Spring Boot, Spring MVC, Spring Security, Thymeleaf, and MySQL. Users can register, authenticate securely, publish inspirational blogs and thoughts, and explore motivational content through an intuitive interface.
 
 ### Technologies
@@ -169,11 +167,12 @@ A secure and responsive blogging platform developed using Spring Boot, Spring MV
 
 ### Live Demo
 
-🌐 [live website](https://inspire-blog-web.onrender.com/)
+🌐 **LiveDemo:** [ViewLiveProject](https://inspire-blog-web.onrender.com/)
 
 ### Source Code
 
-🔗 [Bitbucket Repo](https://bitbucket.org/stripepay/workspace/projects/IB)
+🔗 **Bitbuket Repo** [view Repo On Bitbukcet](https://bitbucket.org/stripepay/workspace/projects/IB)
+-----
 ### **Banking Application**
 **Tech**: Spring MVC, JSP, Spring Data JPA, Oracle  
 **GitHub**: [View Project](https://github.com/GhadgePradip9971/MAIN_PROJECTS/tree/fa1681b07cc908f8abd4ac0522461a158dc49de7/400-SDFCBankspringbootappn)
