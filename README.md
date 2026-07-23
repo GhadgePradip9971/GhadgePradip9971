@@ -14,24 +14,28 @@ Sathya Technologies, Hyderabad | Built multiple real-time projects using modern 
 
 ## 🚀 Technical Stack
 
-### **Languages & Frameworks**
-- **Java** | **Spring Boot** | **Spring MVC** | **Spring Core** | **Spring REST** 
-- **Spring Data JPA** | **Spring Security** | **Hibernate** | **Microservices**
-- **SQL** | **HTML5** | **CSS3** | **JavaScript**
+## 🛠️ Tech Stack
 
-### **Web & Frontend**
-- **React.js** (familiar) | **Thymeleaf** (in progress) | **JSP & Servlets**
-- **RESTful APIs** | **JSON** | **Postman** | **Swagger**
+**💻 Languages:**
+Java • SQL • JavaScript
 
-### **Databases & Tools**
-- **Oracle** | **MySQL** | **AWS RDS**
-- **Eclipse** | **Spring Tool Suite (STS)** | **VS Code** | **DBeaver**
-- **Maven** | **Git/GitHub/Bitbucket** | **SourceTree** | **Jira**
+**⚙️ Backend:**
+Spring Boot • Spring MVC • Spring Data JPA • Spring Security • Hibernate • REST APIs • Microservices
 
-### **Cloud & Methodologies**
-- **AWS**: EC2, RDS, SecretManager
-- **Agile/Scrum** | **Design Patterns** | **Code Review**
-- **Testing**: JUnit, Mockito
+**🌐 Frontend:**
+React.js (Basic) • HTML5 • CSS3 • Thymeleaf 
+
+**🗄️ Database:**
+MySQL • Oracle • AWS RDS
+
+**☁️ Cloud & Tools:**
+AWS (EC2, RDS, Secrets Manager) • Maven • Git • GitHub • Bitbucket • Postman • Swagger • Jira • Eclipse • STS • VS Code • DBeaver
+
+**🧪 Testing:**
+JUnit • Mockito
+
+**📌 Practices:**
+Agile (Scrum) • Design Patterns • Code Reviews
 
 ---
 
