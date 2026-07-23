@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pradip Ghadge!
 
-**Java Full Stack Developer** | Spring Boot | Microservices | REST APIs | AWS |Thymeleaf |React 
+**Java Full Stack Developer** | Spring Boot | Microservices | REST APIs | AWS | Thymeleaf | React 
 
 🎓 **B.Tech in Computer Science and Engineering**  
 Punyashlok Ahilyadevi Holkar Solapur University (2020–2024)
